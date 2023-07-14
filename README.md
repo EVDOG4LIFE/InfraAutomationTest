@@ -1,4 +1,4 @@
-`# Terraform and Ansible Infrastructure Provisioning
+# Terraform and Ansible Infrastructure Provisioning
 
 This project contains Terraform and Ansible configurations to provision and manage infrastructure resources.
 
